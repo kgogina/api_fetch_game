@@ -1,6 +1,8 @@
 # Star Wars Game
 This repository contains a JavaScript-based Star Wars game that utilizes an API to generate random Star Wars character information. The game is designed as a simple web application and can be easily run in any modern web browser.
 
+## Preview
+![Solution](desktop_preview.jpg)
 
 ## Usage
 1. You can access a live demo of the  Star Wars Game by visiting the GitHub Pages link for the project. This allows you to use the application directly in your web browser without the need to clone or download the repository.
