@@ -5,7 +5,7 @@ This repository contains a JavaScript-based Star Wars game that utilizes an API 
 ![Solution](desktop_preview.jpg)
 
 ## Usage
-1. You can access a live demo of the  Star Wars Game by visiting the GitHub Pages link for the project. This allows you to use the application directly in your web browser without the need to clone or download the repository.
+1. You can access a live demo of the  Star Wars Game by visiting the GitHub Pages [link for the project](https://kgogina.github.io/api_fetch_game/). This allows you to use the application directly in your web browser without the need to clone or download the repository.
 2. Click the "Click here to Start" button to generate a random Star Wars character.
 3. The game will make an API request to retrieve information about the character.
 4. Once the information is fetched, the character's name, birth year, and gender will be displayed in the respective input fields on the screen.
