@@ -25,3 +25,7 @@ Contributions to the Star Wars game are welcome and encouraged! If you'd like to
 3. Make your modifications and commit your changes.
 4. Push your changes to your fork.
 5. Submit a pull request.
+
+## Acknowledgments
+
+The project was created for learning purposes and does not represent a real company or offer real services. The images used in the project are for demonstration purposes.
